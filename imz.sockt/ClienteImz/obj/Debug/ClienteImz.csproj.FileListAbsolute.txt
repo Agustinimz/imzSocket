@@ -1,0 +1,8 @@
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\bin\Debug\ClienteImz.exe.config
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\bin\Debug\ClienteImz.exe
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\bin\Debug\ClienteImz.pdb
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.AssemblyReference.cache
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.SuggestedBindingRedirects.cache
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.CoreCompileInputs.cache
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.exe
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.pdb
